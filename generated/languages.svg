@@ -106,7 +106,7 @@ div.ellipsis {
 
 <div>
 <span class="progress">
-<span style="background-color: #563d7c;width: 78.288%;" class="progress-item"></span><span style="background-color: #e34c26;width: 21.712%;" class="progress-item"></span>
+<span style="background-color: #563d7c;width: 65.845%;" class="progress-item"></span><span style="background-color: #4F5D95;width: 17.377%;" class="progress-item"></span><span style="background-color: #e34c26;width: 16.778%;" class="progress-item"></span>
 </span>
 </div>
 
@@ -118,16 +118,25 @@ div.ellipsis {
 viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
 fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 <span class="lang">CSS</span>
-<span class="percent">78.29%</span>
+<span class="percent">65.84%</span>
 </li>
 
 
 <li style="animation-delay: 150ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#4F5D95;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">PHP</span>
+<span class="percent">17.38%</span>
+</li>
+
+
+<li style="animation-delay: 300ms;">
 <svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#e34c26;"
 viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
 fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 <span class="lang">HTML</span>
-<span class="percent">21.71%</span>
+<span class="percent">16.78%</span>
 </li>
 
 
